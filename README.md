@@ -1,1 +1,1 @@
-# chat-bot-seminar
+# chatbot-seminar
